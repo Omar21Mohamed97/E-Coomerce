@@ -1,0 +1,32 @@
+/* Start Main Rulez */
+
+body {
+	background-color: #F4F4F4; 
+}
+
+/* End Main Rulez */
+
+
+/* Start Login form */
+
+.login {
+	width: 500px;
+	margin: 200px auto;
+}
+
+.login h4 {
+	color: #888;
+}
+
+.login input {
+	margin-bottom: 20px;
+}
+
+.login .form-control {
+	background-color: #EAEAEA;
+}
+
+.login .btn {
+	background-color: #008dde;
+}
+/* End Login Form */
